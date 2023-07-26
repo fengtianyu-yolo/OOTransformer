@@ -1,0 +1,6 @@
+use_frameworks!
+target 'OOTransformer_Tests' do
+  pod 'OOTransformer', :path => '../'
+  
+  
+end
